@@ -1,3 +1,7 @@
 # first-repo
 
-this is my first repository now i am starting post my projects on github
+# intro 
+this is my first repository from now i am starting to  post my projects on github
+
+# about project
+this game is a copy of simon says game. 
